@@ -1,6 +1,5 @@
 'Oxaloacetate
 'Interfeci
-'Version 1.6 ALPHA
 
 GLOBAL gold, level, exp, action$
 
